@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I’m Sampath.
+
+I’m an Electronics and Communication Engineering undergraduate at IIITDM Jabalpur, with a strong interest in systems programming and open-source development.
+
+### Interests
+- Systems programming (C / C++)
+- Operating systems and Linux tooling
+- Large codebases and open-source workflows
+
+### Selected Work
+- **tetris-nc** — Tetris clone in C++ using ncurses, focused on game logic and terminal UI
+- **LibreOffice** — Bug fixing and patches submitted via Gerrit
+- **Miscellaneous experiments** — Small projects exploring C/C++, build systems, and Linux environments
+
+### Community
+- Core member, Programming Club, IIITDM Jabalpur
+- Competitive programming (Codeforces)
+
+### Links
+- GitHub: https://github.com/Sampath-1984
+- LibreOffice Gerrit: https://gerrit.libreoffice.org/q/owner:jnana.sampath.06@gmail.com
