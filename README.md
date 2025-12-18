@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **Sampath-1984/Sampath-1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,10 +28,6 @@ I’m an Electronics and Communication Engineering undergraduate at IIITDM Jabal
 - **tetris-nc** — Tetris clone in C++ using ncurses, focused on game logic and terminal UI
 - **LibreOffice** — Bug fixing and patches submitted via Gerrit
 - **Miscellaneous experiments** — Small projects exploring C/C++, build systems, and Linux environments
-
-### Community
-- Core member, Programming Club, IIITDM Jabalpur
-- Competitive programming (Codeforces)
 
 ### Links
 - GitHub: https://github.com/Sampath-1984
