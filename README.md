@@ -32,3 +32,4 @@ I’m an Electronics and Communication Engineering undergraduate at IIITDM Jabal
 ### Links
 - GitHub: https://github.com/Sampath-1984
 - LibreOffice Gerrit: https://gerrit.libreoffice.org/q/owner:jnana.sampath.06@gmail.com
+- Blog: https://serverofsolitude.twilightparadox.com
