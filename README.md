@@ -25,6 +25,7 @@ I’m an Electronics and Communication Engineering undergraduate at IIITDM Jabal
 - Large codebases and open-source workflows
 
 ### Selected Work
+- **nsop** - Namespace operator commands that mimic the ones found in plan 9 Operating system but for linux.
 - **tetris-nc** — Tetris clone in C++ using ncurses, focused on game logic and terminal UI
 - **LibreOffice** — Bug fixing and patches submitted via Gerrit
 - **Miscellaneous experiments** — Small projects exploring C/C++, build systems, and Linux environments
@@ -32,4 +33,3 @@ I’m an Electronics and Communication Engineering undergraduate at IIITDM Jabal
 ### Links
 - GitHub: https://github.com/Sampath-1984
 - LibreOffice Gerrit: https://gerrit.libreoffice.org/q/owner:jnana.sampath.06@gmail.com
-- Blog: https://serverofsolitude.twilightparadox.com
